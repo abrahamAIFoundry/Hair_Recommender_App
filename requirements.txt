@@ -23,6 +23,7 @@ tqdm>=4.64.0
 
 # Logging ---------------------------------------------------------------------
 tensorboard>=2.4.1
+tensorflow
 # clearml>=1.2.0
 # comet
 
@@ -50,4 +51,4 @@ setuptools>=65.5.1 # Snyk vulnerability fix
 # mss  # screenshots
 # albumentations>=1.0.3
 # pycocotools>=2.0.6  # COCO mAP
-# ultralytics  # HUB https://hub.ultralytics.com
+ultralytics  # HUB https://hub.ultralytics.com
